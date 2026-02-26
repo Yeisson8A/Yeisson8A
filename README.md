@@ -131,6 +131,18 @@
   <a href="https://www.make.com/en" target="_blank">
     <img src="https://www.pointagram.com/wp-content/uploads/2022/10/Make-App-Icon-Circle.png" height="45"/>
   </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+  </a>
+
+  <a href="https://visualstudio.microsoft.com/es/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="45"/>
+  </a>
 </p>
 
 ## 🏅 Certifications & Badges
