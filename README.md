@@ -227,4 +227,8 @@
   <a href="https://learn.microsoft.com/es-es/users/yeissonalexanderochoavilla-4041/achievements/3ymgf5jh" target="_blank">
     <img src="https://learn.microsoft.com/es-es/training/achievements/generic-trophy.svg" height="100"/>
   </a>
+
+  <a href="https://learn.microsoft.com/es-es/users/yeissonalexanderochoavilla-4041/achievements/qtp4ax2e" target="_blank">
+    <img src="https://learn.microsoft.com/es-es/training/achievements/explore-non-relational-data-stores-azure.svg" height="100"/>
+  </a>
 </p>
