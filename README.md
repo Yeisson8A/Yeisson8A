@@ -7,17 +7,17 @@
 
 - ❤️‍🔥 I am currently a backend-oriented software developer, but with knowledge of frontend, data engineering, and automation.
 - 🔭 I am currently working on my portfolio.
-- 🌱 I am currently learning NestJS, Airflow, and Databricks.
+- 🌱 I am currently learning NestJS, Airflow, Databricks and Django.
 - 🎮 I am passionate about games, movies, literature, and writing.
 
 ## 🌎 Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yeisson-alexander-ochoa-villa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:yeisson.ochoa72@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="40"/>
   </a>
 </p>
 
@@ -25,107 +25,107 @@
 
 <p align="left">
   <a href="https://angular.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" height="45"/>
   </a>
   
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="45"/>
   </a>
   
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="45"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" height="45"/>
   </a>
   
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" height="45"/>
   </a>
   
   <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" height="45"/>
   </a>
   
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" height="45"/>
   </a>
   
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=express" height="45"/>
   </a>
   
   <a href="https://dotnet.microsoft.com/es-es/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" height="45"/>
   </a>
   
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="45"/>
   </a>
 
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" height="45"/>
   </a>
 
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" height="45"/>
   </a>
 
   <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" height="45"/>
   </a>
 
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/35/1/jupyter-logo-png_seeklogo-354673.png" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="45"/>
   </a>
 
   <a href="https://go.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=golang" height="45"/>
   </a>
   
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" height="45"/>
   </a>
   
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" height="45"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" height="45"/>
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" height="45"/>
   </a>
 
   <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="45"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="45"/>
   </a>
 
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flutter" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" height="45"/>
   </a>
 
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kafka" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" height="45"/>
   </a>
 
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-spark-94zum7n2swq44413oz16m.png/apache-spark-xntvdsnrrb09llwflruka.png?_a=DATAiZAAZAA0" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=spark" height="45"/>
   </a>
 
   <a href="https://azure.microsoft.com/es-es" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" height="45"/>
   </a>
 
   <a href="https://aws.amazon.com/es/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" height="45"/>
   </a>
 
   <a href="https://www.make.com/en" target="_blank">
@@ -133,15 +133,87 @@
   </a>
 
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="45"/>
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" height="45"/>
   </a>
 
   <a href="https://visualstudio.microsoft.com/es/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="45"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" height="45"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" height="45"/>
+  </a>
+
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" height="45"/>
+  </a>
+
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" height="45"/>
+  </a>
+
+  <a href="https://vite.dev/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vite" height="45"/>
+  </a>
+
+  <a href="https://vitest.dev/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vitest" height="45"/>
+  </a>
+
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" height="45"/>
+  </a>
+
+  <a href="https://www.learndapper.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dapper" height="45"/>
+  </a>
+
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" height="45"/>
+  </a>
+
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab" height="45"/>
+  </a>
+
+  <a href="https://docs.pytest.org/en/stable/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" height="45"/>
+  </a>
+
+  <a href="https://angular.dev/guide/testing/karma" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=karma" height="45"/>
+  </a>
+
+  <a href="https://www.sqlalchemy.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" height="45"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45"/>
+  </a>
+
+  <a href="https://typeorm.io/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=typeorm" height="45"/>
+  </a>
+
+  <a href="https://mongoosejs.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose" height="45"/>
+  </a>
+
+  <a href="https://www.oracle.com/latam/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="45"/>
+  </a>
+
+  <a href="https://aws.amazon.com/es/s3/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="45"/>
+  </a>
+
+  <a href="https://aws.amazon.com/es/rds/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="45"/>
   </a>
 </p>
 
@@ -230,5 +302,17 @@
 
   <a href="https://learn.microsoft.com/es-es/users/yeissonalexanderochoavilla-4041/achievements/qtp4ax2e" target="_blank">
     <img src="https://learn.microsoft.com/es-es/training/achievements/explore-non-relational-data-stores-azure.svg" height="100"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/a75cba9d-e287-4f5b-8530-8a15e00688d6/badges/17445890" target="_blank">
+    <img src="https://cdn.qwiklabs.com/URJ0BFWgzlLBkCO6kSOyXGd3Idd44d6tC4Dqn6SKeiw%3D" height="100"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/a75cba9d-e287-4f5b-8530-8a15e00688d6/badges/17173700" target="_blank">
+    <img src="https://cdn.qwiklabs.com/qYxhh9k%2F6Qzjzdg%2B5W%2F41gbkZ2Mf2%2B20bBrLq9meMBc%3D" height="100"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/a75cba9d-e287-4f5b-8530-8a15e00688d6/badges/17172300" target="_blank">
+    <img src="https://cdn.qwiklabs.com/hntzUgDDK6JZHcCj3hBnZErv2yacQUwg8Y3h%2F0VQAEQ%3D" height="100"/>
   </a>
 </p>
