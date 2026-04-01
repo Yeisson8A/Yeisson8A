@@ -196,6 +196,14 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45"/>
   </a>
 
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="45"/>
+  </a>
+
+  <a href="https://plotly.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=plotly" height="45"/>
+  </a>
+
   <a href="https://typeorm.io/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=typeorm" height="45"/>
   </a>
