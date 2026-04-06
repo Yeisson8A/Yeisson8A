@@ -223,6 +223,18 @@
   <a href="https://aws.amazon.com/es/rds/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="45"/>
   </a>
+
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=spring" height="45"/>
+  </a>
+
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=maven" height="45"/>
+  </a>
+
+  <a href="https://junit.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=junit" height="45"/>
+  </a>
 </p>
 
 ## 🏅 Certifications & Badges
