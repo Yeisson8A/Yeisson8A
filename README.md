@@ -235,6 +235,18 @@
   <a href="https://junit.org/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=junit" height="45"/>
   </a>
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" height="45"/>
+  </a>
+
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs" height="45"/>
+  </a>
+
+  <a href="https://modelcontextprotocol.io/docs/getting-started/intro" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp" height="45"/>
+  </a>
 </p>
 
 ## 🏅 Certifications & Badges
