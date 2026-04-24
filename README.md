@@ -247,6 +247,10 @@
   <a href="https://modelcontextprotocol.io/docs/getting-started/intro" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp" height="45"/>
   </a>
+
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" height="45"/>
+  </a>
 </p>
 
 ## 🏅 Certifications & Badges
