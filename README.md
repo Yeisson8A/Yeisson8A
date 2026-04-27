@@ -351,4 +351,12 @@
   <a href="https://www.skills.google/public_profiles/a75cba9d-e287-4f5b-8530-8a15e00688d6/badges/17172300" target="_blank">
     <img src="https://cdn.qwiklabs.com/hntzUgDDK6JZHcCj3hBnZErv2yacQUwg8Y3h%2F0VQAEQ%3D" height="100"/>
   </a>
+
+  <a href="https://www.credly.com/badges/e3ca83b4-ca01-4e7f-9a07-5d87f03011c5/public_url" target="_blank">
+    <img src="https://images.credly.com/images/e3d619cf-ce1f-4b75-ad4f-78c68cbbae51/blob" height="100"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/f9b675d8-c315-495f-a2e1-1d670842343f/public_url" target="_blank">
+    <img src="https://images.credly.com/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" height="100"/>
+  </a>
 </p>
