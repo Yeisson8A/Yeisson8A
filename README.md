@@ -359,4 +359,12 @@
   <a href="https://www.credly.com/badges/f9b675d8-c315-495f-a2e1-1d670842343f/public_url" target="_blank">
     <img src="https://images.credly.com/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" height="100"/>
   </a>
+
+  <a href="https://learn.microsoft.com/es-es/users/yeissonalexanderochoavilla-4041/achievements/ypyp2tvr" target="_blank">
+    <img src="https://learn.microsoft.com/es-es/training/achievements/az-204-implement-azure-functions.svg" height="100"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/es-es/users/yeissonalexanderochoavilla-4041/achievements/8282rk3w" target="_blank">
+    <img src="https://learn.microsoft.com/es-es/training/achievements/1-prepare-to-maintain-databases-on-azure.svg" height="100"/>
+  </a>
 </p>
