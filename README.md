@@ -240,8 +240,16 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" height="45"/>
   </a>
 
+  <a href="https://spring.io/projects/spring-data-jpa" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=springdatajpa" height="45"/>
+  </a>
+
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vuejs" height="45"/>
+  </a>
+
+  <a href="https://vuetifyjs.com/en/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vuetify" height="45"/>
   </a>
 
   <a href="https://modelcontextprotocol.io/docs/getting-started/intro" target="_blank">
