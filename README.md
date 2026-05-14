@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">¡Hey 👋! I'm Yeisson Alexander Ochoa Villa</h1>
-<h3>I am a software developer with over 8 years of experience, with 6 years of backend and fullstack knowledge, as well as 1 year of data engineering experience 🚀</h3>
+<h3>I am a software developer with over 8 years of experience in backend and fullstack 🚀</h3>
 
 ## 🔥 About me
 
-- ❤️‍🔥 I am currently a backend-oriented software developer, but with knowledge of frontend, data engineering, and automation.
+- ❤️‍🔥 I am currently a backend-oriented software developer, but with knowledge of frontend and automation.
 - 🔭 I am currently working on my portfolio.
-- 🌱 I am currently learning NestJS, Airflow, Databricks and Django.
+- 🌱 I am currently learning NestJS, Django, Spring Boot and Spring Webflux.
 - 🎮 I am passionate about games, movies, literature, and writing.
 
 ## 🌎 Connect with me:
