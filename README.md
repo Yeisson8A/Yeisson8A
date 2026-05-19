@@ -259,6 +259,10 @@
   <a href="https://graphql.org/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" height="45"/>
   </a>
+
+  <a href="https://sequelize.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sequelize" height="45"/>
+  </a>
 </p>
 
 ## 🏅 Certifications & Badges
